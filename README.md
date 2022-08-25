@@ -1,2 +1,2 @@
 # Problem_Solving
-Problem Solving with Ptyhon
+Problem Solving with Python
